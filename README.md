@@ -13,8 +13,8 @@ A Flutter-based mobile application that allows users to browse, favorite, and pu
 
 ## Screenshots
 <p float="left">
-  <img src="assets/screenshots/ss1.png" width="45%" />
-  <img src="assets/screenshots/ss2.png" width="45%" />
+  <img src="assets/screenshots/ss1.png" width="20%" />
+  <img src="assets/screenshots/ss2.png" width="20%" />
 </p>
 
 ## Tech Stack
@@ -23,4 +23,5 @@ A Flutter-based mobile application that allows users to browse, favorite, and pu
 - Firebase (optional) – Authentication and data storage  
 - Google Fonts – Typography  
 - Material Design – UI components and theme
+
 
